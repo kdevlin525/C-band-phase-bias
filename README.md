@@ -33,3 +33,5 @@ This script reads in SLCs and downlooks, filters, and unwraps to create sequenti
 
 `masked_unw_ifgs.ipynb`
 This notebook creates masked unwrapped interferograms.
+
+DOI: 10.5281/zenodo.14519568
