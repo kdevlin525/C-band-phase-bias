@@ -1,0 +1,47 @@
+name: phase-bias
+channels:
+  - conda-forge
+  - pyrocko
+dependencies:
+  - python
+  - boto3
+  - cartopy
+  - cython
+  - dem_stitcher>=2.5.0
+  - fortran-compiler
+  - h5py
+  - hyp3lib=1.4.1
+  - hyp3_sdk
+  - ipympl
+  - isce2
+  - joblib
+  - jupyterlab
+  - ipywidgets<8.0.0
+  - kernda
+  - lxml
+  - matplotlib<3.7.0
+  - mintpy
+  - netcdf4
+  - numpy
+  - opencv
+  - openmp
+  - opensarlab_lib
+  - pip
+  - pv
+  - pygmt
+  - pyproj
+  - pyrocko
+  - rioxarray
+  - sardem
+  - scikit-image
+  - scipy
+  - shapely
+  - traitlets==5.1.1
+  - utm
+  - datashader
+  - sentineleof
+  - asf_search
+  - pip:
+    - url-widget
+    - okada_wrapper
+    - kite
