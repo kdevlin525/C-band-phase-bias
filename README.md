@@ -1,6 +1,6 @@
 ## C-band-phase-bias
 
-This repository serves as a companion to Devlin and Lohman (2024) "Evaluation of Vegetation Bias in InSAR Time Series for Agricultural Areas within the San Joaquin Valley, CA", EarthArXiv preprint, https://doi.org/10.31223/X50T5K. It contains code developed by the authors for this project and is meant to serve as a starting point for those wishing to reproduce and/or adapt the workflow. 
+This repository serves as a companion to Devlin and Lohman (2025) "Evaluation of Vegetation Bias in InSAR Time Series for Agricultural Areas within the San Joaquin Valley, CA", EarthArXiv preprint, https://doi.org/10.31223/X50T5K. It contains code developed by the authors for this project and is meant to serve as a starting point for those wishing to reproduce and/or adapt the workflow. 
 
 ### Install
 
